@@ -55,7 +55,6 @@ public class Account {
 		} else {
 			return false;
 		}
-
 	}
 
 	@Override
